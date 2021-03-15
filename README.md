@@ -1,4 +1,4 @@
-# BusinessTips Landing Page
+# BusinessTips Landing Page :briefcase:
 
 Landing page website created with responsive web design approach.
 
@@ -7,6 +7,7 @@ Landing page website created with responsive web design approach.
 1. HTML5
 2. SCSS
 3. JavaScript ES6
+4. GSAP (for animation :wink: )
 
 ## Link to website:
 
